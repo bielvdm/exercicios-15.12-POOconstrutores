@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\bin\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.exe
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\bin\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.deps.json
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\bin\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.runtimeconfig.json
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\bin\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.runtimeconfig.dev.json
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\bin\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.dll
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\bin\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.pdb
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.AssemblyInfo.cs
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.dll
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.pdb
+C:\Users\adm\Desktop\exercicios-15.12-POOconstrutores\obj\Debug\netcoreapp3.1\exercicios-15.12-POOconstrutores.genruntimeconfig.cache
